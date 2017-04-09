@@ -8,11 +8,6 @@
  :;;;;; .;:.;;  ;;  ;; ;;` `;; `. `;; ;;  :;. ;;  :;, ;;``    ;;  ;;  ;;
  ;;;;;; .;: ;;. ;;:;;: .;;:;;. ;;..;; ;;  :;. ;;;:;;  ;;   ;; ;;  ;;:;;
 
- * Blynk library is licensed under MIT license
- * This example code is in public domain.
- *
- **************************************************************
- *
  * This example shows how to use ESP8266 Shield (with AT commands)
  * to connect your project to Blynk.
  *
